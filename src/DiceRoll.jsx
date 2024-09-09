@@ -37,7 +37,7 @@ const DiceRoll = () => {
 
     return (
         <div className="dice-roll-container">
-            <h1>Roll the Dice Randomly</h1>
+            <h1>Roll the Dice Randomly..</h1>
             <div className="dice-container">
                 <div className="dice">
                     <img src={images[values[0]]} ref={imgRef1} alt='Dice 1' className="dice-image" />
